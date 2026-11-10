@@ -1,6 +1,6 @@
-# Independent planning tools
+# Independent creator tools
 
-I operate a collection of free web tools for creators, newsletter authors and people building client websites. I prepare the tools and documentation with AI assistance. Start with your decision, then use a worked example to check whether the tool fits.
+I operate a collection of free web tools for creators, newsletter authors, small businesses and people building client websites. I prepare the tools and documentation with AI assistance. Start with your task, then use the examples or guide to check whether the tool fits.
 
 ## Find a useful starting point
 
@@ -10,14 +10,15 @@ I operate a collection of free web tools for creators, newsletter authors and pe
 | You write a newsletter or prepare email campaigns for a client. | [Send Budget calculator](https://send-budget-1109.crisp-llama-2628.chatgpt.site/capacity.html#remaining-send-balance) · [Five use cases](https://send-budget-1109.crisp-llama-2628.chatgpt.site/use-cases.html) | Campaign volume, reserved resends, remaining sends, quota windows and welcome-email planning. |
 | You are planning a Carrd portfolio, service page or client handoff. | [Page Scope planner](https://page-scope-1109.crisp-llama-2628.chatgpt.site/#plan-fit) · [Five use cases](https://page-scope-1109.crisp-llama-2628.chatgpt.site/use-cases.html) | Required features and site slots, project costs, editing roles and ownership-transfer preparation. |
 | You sell digital products and compare a full month's platform fees. | [Store Fee Lab calculator](https://store-fee-lab-1109.crisp-llama-2628.chatgpt.site/#calculator) · [Five use cases](https://store-fee-lab-1109.crisp-llama-2628.chatgpt.site/use-cases) | Monthly Payhip fee structures, a separate processor quote and displayed rounding ties. |
+| You run a café, design a business card, or print a local-event flyer with an existing public URL. | [印刷前QR / QR Before Print](https://qr-before-print-1110.crisp-llama-2628.chatgpt.site/?utm_source=owned&utm_medium=profile&utm_campaign=qr_print_launch) · [Print guide](https://qr-before-print-1110.crisp-llama-2628.chatgpt.site/guide?utm_source=owned&utm_medium=profile&utm_campaign=qr_print_launch) | Browser-local URL-to-QR generation, SVG/PNG downloads, a four-module quiet zone and print checks. Japanese; no scan tracking or destination reachability or safety checks. |
 
-Each example shows who it fits, inputs, modeled output and limits. The tools are free to use without creating an account; they do not connect to your provider account.
+Planning examples show who they fit, inputs, modeled output and limits. The QR guide covers the destination and checks before printing. The tools are free to use without creating an account; they do not connect to your provider account.
 
 ## Copyable planning resources
 
 - [Send Budget widget guide](https://github.com/kumiromiscythespec/send-budget-widget): hosted demonstration, iframe instructions and an ordinary calculator-link fallback. The repository does not include an offline calculator.
 - [Carrd client handoff brief](https://github.com/kumiromiscythespec/carrd-client-handoff-brief): a blank TXT worksheet you may edit locally for your own project handoff. It does not grant access or execute a transfer.
 
-I maintain these projects. They are not official services of the named providers. Some tool pages and guides contain optional, clearly disclosed Carrd or systeme.io referral links. Payhip links are ordinary official references. These profile links open free planning pages, not affiliate redirects.
+I maintain these projects. They are not official services of the named providers. Some tool pages and guides contain optional, clearly disclosed Carrd or systeme.io referral links. Payhip links are ordinary official references. These profile links open free tools and guides, not affiliate redirects.
 
 The examples are scenarios, not customer results, invoices or evidence of sales or profit. Read each tool's method and check current official conditions before making a purchase.
