@@ -37,6 +37,7 @@ Planning examples show who they fit, inputs, modeled output and limits. The QR g
 
 ## Copyable planning resources
 
+- [Japanese workshop planning worksheet: HTML, Markdown and ZIP](https://github.com/kumiromiscythespec/workshop-planning-worksheet): Start with a ready-made blank planner: three sections, six prompts and eighteen answer lines. Edit it for your own session; HTML and Markdown are separate files, and print layout needs checking in your environment.
 - [Send Budget widget guide](https://github.com/kumiromiscythespec/send-budget-widget): hosted demonstration, iframe instructions and an ordinary calculator-link fallback. The repository does not include an offline calculator.
 - [Carrd client handoff brief](https://github.com/kumiromiscythespec/carrd-client-handoff-brief): a blank TXT worksheet you may edit locally for your own project handoff. It does not grant access or execute a transfer.
 - [Campaign Link Studio naming and measurement guide (Japanese)](https://campaign-link-studio-1110.crisp-llama-2628.chatgpt.site/guide?utm_source=owned_social&utm_medium=profile&utm_campaign=campaign_link_launch): separate UTM preparation from destination analytics and optional Carrd contact-form setup.
