@@ -2,6 +2,13 @@
 
 I operate a collection of free web tools for creators, newsletter authors, small businesses and people building client websites. I prepare the tools and documentation with AI assistance. Start with your task, then use the examples or guide to check whether the tool fits.
 
+## Try one example first
+
+Start with a fictional example, see the result, then change an input and generate it again. Both tools below have Japanese interfaces and are free to use without an account. Saving uses a separate button; optional labelled referral advertising is separate from the tool.
+
+- **Printing a flyer or business card?** [Open QR Before Print](https://qr-before-print-1110.crisp-llama-2628.chatgpt.site/?utm_source=owned&utm_medium=profile&utm_campaign=qr_print_launch), then press **見本URLでQRを作る** (create a QR with the sample URL). It uses `https://example.com/`. Replace it with your own public URL and generate again; inspect the destination and test the saved QR before printing.
+- **Announcing a class or event?** [Open Share Card Studio](https://share-card-studio-1110.crisp-llama-2628.chatgpt.site/?utm_source=owned&utm_medium=profile&utm_campaign=share_card_launch), then press **体験会の見本画像を作る** (create the sample event image). Edit the fictional title and details, generate again, and inspect the image before choosing PNG save.
+
 ## Find a useful starting point
 
 | Your situation | Tool and examples | What it helps you check |
